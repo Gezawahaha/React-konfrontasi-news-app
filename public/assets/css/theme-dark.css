@@ -1,0 +1,99 @@
+.l-theme_dark {
+  color: #ccc;
+  background-color: #131313;
+}
+
+.l-theme_dark h1,
+.l-theme_dark h2,
+.l-theme_dark h3,
+.l-theme_dark h4,
+.l-theme_dark h5,
+.l-theme_dark h6,
+.l-theme_dark .entry-title,
+.l-theme_dark .entry-title a,
+.l-theme_dark .ui-title-inner__inner,
+.l-theme_dark .nav-tabs.nav-tabs_title > li.active > a,
+.l-theme_dark .nav-tabs_title > li > a:hover,
+.l-theme_dark .comments-list-sm__content,
+.l-theme_dark .b-post_img-bg_type-3 .entry-meta__link,
+.l-theme_dark .b-post_img-bg_type-3 .entry-meta,
+.l-theme_dark .b-contacts__name,
+.l-theme_dark .list-desc dt,
+.l-theme_dark .b-post-full .entry-footer__title,
+.l-theme_dark .comments-list .comment-author,
+.l-theme_dark .breadcrumb > .active,
+.l-theme_dark .pagination > li > a,
+.l-theme_dark .pagination > li > span,
+.l-theme_dark .b-blockquote-post,
+.l-theme_dark .widget-list .widget-list__link:hover {
+  color: #FFF;
+}
+.l-theme_dark .btn-bd-primary {
+  color: #fffefe;
+}
+.l-theme_dark .nav-tabs li > a,
+.l-theme_dark .nav-tabs li .icon,
+.l-theme_dark .widget-list__link .badge,
+.l-theme_dark a.b-contacts__info {
+  color: #ccc;
+}
+.l-theme_dark .ui-title-inner-2 {
+  color: #777;
+}
+.l-theme_dark .nav-tabs_title > li > a,
+.l-theme_dark .alert-title {
+  color: #888;
+}
+
+
+.l-theme_dark .bg-grey,
+.l-theme_dark .bg-grey-2 {
+  background-color: #252525 !important;
+}
+.l-theme_dark .b-post_bg-white,
+.l-theme_dark .widget-list_mod-a,
+.l-theme_dark .b-post_img-bg_type-2 .entry-title,
+.l-theme_dark .b-post_img-bg_type-1 .entry-title,
+.l-theme_dark .b-post_img-bg_type-3 .entry-title,
+.l-theme_dark .b-post_img-bg_type-3 .entry-meta,
+.l-theme_dark .widget-list,
+.l-theme_dark .b-post_img-65,
+.l-theme_dark .table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #252525;
+}
+.l-theme_dark .owl-theme .owl-controls .owl-buttons div {
+  background-color: #131313;
+}
+.l-theme_dark .btn-bd-primary,
+.l-theme_dark .widget-list__link .badge,
+.l-theme_dark .pagination > li > a,
+.l-theme_dark .pagination > li > span,
+.l-theme_dark .widget-list_white {
+  background-color: transparent;
+}
+.l-theme_dark .b-banner_w-border_grad {
+  background-image: linear-gradient(35deg, rgba(209, 209, 176, 0.4) 0%, rgba(0, 0, 0, 0.81) 100%);
+}
+.l-theme_dark .b-banner_w-border_grad-2 {
+  background-image: linear-gradient(35deg, rgba(0, 0, 0, 0.81) 0%, rgba(209, 209, 176, 0.4) 100%);
+}
+
+.l-theme_dark .ui-title-inner,
+.l-theme_dark .nav-tabs_title,
+.l-theme_dark .b-post_img-240,
+.l-theme_dark .b-post_img-97,
+.l-theme_dark .comments-list-sm__item {
+  border-bottom-color: #333;
+}
+
+.l-theme_dark .widget-list__link .badge {
+  border-color: #eaeaeb;
+}
+.l-theme_dark .img-border {
+}
+.l-theme_dark .footer {
+  color: #ccc;
+}
+.l-theme_dark .footer-section__title {
+  color: #eee;
+}

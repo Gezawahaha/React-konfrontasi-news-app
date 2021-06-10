@@ -1,0 +1,48 @@
+
+body {
+  color: #ccc;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #fff;
+}
+
+.l-theme {
+  background-color: #131313;
+}
+
+.entry-title,
+.entry-title a {
+  color: white;
+}
+
+.btn-bd-primary {
+  color: #fffefe;
+}
+
+.ui-title-inner {
+  border-bottom-color: #333;
+  color: #fff;
+}
+
+.bg-grey-2 {
+  background-color: #252525 !important;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+  background-color: #131313;
+}
+
+
+.b-banner_w-border_grad {
+  background-image: linear-gradient(35deg, rgba(209, 209, 176, 0.2) 0%, rgba(0, 180, 255, 0.2) 100%);
+}
+
+.b-post_img-360 .entry-main {
+  background-color: #252525;
+}
